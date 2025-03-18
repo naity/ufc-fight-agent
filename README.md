@@ -6,6 +6,10 @@ A tool-using LLM agent built from scratch that provides personalized UFC fight r
 
 This project demonstrates how to create a tool-using LLM agent without relying on frameworks. The agent can analyze upcoming UFC events and recommend fights based on natural language queries, leveraging LLM reasoning capabilities.
 
+[Medium Blog](https://medium.com/p/28c409aac46b)
+
+![workflow](ufc_agent.png)
+
 ## Features
 
 - Custom tool wrapper with automatic docstring parsing
